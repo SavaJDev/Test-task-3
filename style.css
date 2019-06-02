@@ -1,0 +1,69 @@
+.field_for_game {
+    border: 1px solid black;
+    padding: 10px;
+    width: 400px;
+    height: auto;
+
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 400px;
+    height: 400px;
+
+}
+
+td {
+    border: 1px solid black;
+}
+
+
+#start {
+    margin-top: 10px;
+
+}
+
+p {
+    margin-top: 20px;
+}
+
+.fill1 {
+    background: red;
+    opacity: 0;
+}
+
+.fill2 {
+    background: green;
+    opacity: 0;
+}
+
+.fill3 {
+    background: yellow;
+    opacity: 0;
+}
+
+.fill4 {
+    background: blue;
+    opacity: 0;
+}
+
+.fill5 {
+    background: #838e83;
+    opacity: 0;
+}
+
+.fill6 {
+    background: orange;
+    opacity: 0;
+}
+
+.fill7 {
+    background: pink;
+    opacity: 0;
+}
+
+.fill8 {
+    background: #aeaeeb;
+    opacity: 0;
+}
